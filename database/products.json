@@ -1,0 +1,78 @@
+[
+  {
+    "id": "bd6e19e4-a53a-4ac3-863d-1ad428d170a0",
+    "title": "Galleta oreo",
+    "description": "galletas dulces",
+    "code": "go-121",
+    "price": 20,
+    "status": true,
+    "stock": 25,
+    "category": "galletas",
+    "thumbnails": "url"
+  },
+  {
+    "id": "5a387f14-4107-461a-83fb-805289c9abde",
+    "title": "Galleta soda vite",
+    "description": "galletas saladas",
+    "code": "gs-015",
+    "price": 35,
+    "status": true,
+    "stock": 50,
+    "category": "galletas",
+    "thumbnails": "url"
+  },
+  {
+    "id": "ab814e91-d14b-458b-a5bb-118cb3513550",
+    "title": "Galleta ritz",
+    "description": "galletas saladas",
+    "code": "gr-010",
+    "price": 35,
+    "status": true,
+    "stock": 50,
+    "category": "galletas",
+    "thumbnails": "url"
+  },
+  {
+    "id": "ae95c588-b05d-4f56-aa05-0fc25fdb9ee9",
+    "title": "Gaseosa pepsi",
+    "description": "gaseosa de cola",
+    "code": "gp-010",
+    "price": 55,
+    "status": true,
+    "stock": 5,
+    "category": "gaseosas",
+    "thumbnails": "url"
+  },
+  {
+    "id": "cc771986-b2dd-43f3-8305-e0ca873a0eaf",
+    "title": "Gaseosa fanta",
+    "description": "gaseosa de sabores",
+    "code": "gf-050",
+    "price": 65,
+    "status": false,
+    "stock": 21,
+    "category": "gaseosas",
+    "thumbnails": "url"
+  },
+  {
+    "id": "52af3b91-936e-482d-85cd-45dd20447ae9",
+    "title": "Gaseosa Sprite",
+    "description": "gaseosa de limon",
+    "code": "gs-001",
+    "price": 10,
+    "stock": 10,
+    "category": "gaseosas",
+    "thumbnails": "url"
+  },
+  {
+    "id": "b1f5b49c-9558-4671-9c9a-62bcaf4e3c48",
+    "title": "Gaseosa Cola inglesa",
+    "description": "gaseosa de fresa",
+    "code": "gs-010",
+    "price": 50,
+    "status": true,
+    "stock": 10,
+    "category": "gaseosas",
+    "thumbnails": "url"
+  }
+]
